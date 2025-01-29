@@ -6,10 +6,10 @@ void setup() {
   lcd.begin(16,2);
   lcd.print("My name is:");
   lcd.setCursor(0, 1);
-  lcd.print("Alice");
+  lcd.print("Art");
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
-  delay(50)
+  delay(50);
 }
